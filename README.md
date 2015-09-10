@@ -6,7 +6,8 @@ This repository was created to differentiate between [stylesheets created for EA
 List of current stylesheets
 ---------------------------
 
-* original-ead3-cookbook: xslfo transformation
+* original-ead3-cookbook: XSLFO transformation
+* original-ead3-cookbook: HTML transformation
 
 Submitting new or updated stylesheets
 -------------------------------------
